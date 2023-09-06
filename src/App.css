@@ -1,0 +1,240 @@
+ body {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+ 
+ 
+} 
+
+.header {
+  color: white;
+  background-color: black;
+  width: 99.5%;
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+}
+
+.logoLink {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.bloco {
+  background-color: rgb(12, 12, 238);
+  color: white;
+  width: 100%;
+  max-width: 1180px;
+  padding: 10px;
+  align-items: center;
+}
+
+#botaoUm {
+  border-radius: 100px;
+}
+
+#botaoDois {
+  background-color: rgb(69, 69, 239);
+  border-radius: 100px;
+}
+
+.bloco2 {
+  background-color: white;
+  color: black;
+  align-items: center;
+  padding: 30px;
+}
+
+.tiTulo {
+  width: 100%;
+  padding: 10px;
+  flex-grow: 1;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.bcoPri {
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: left;
+
+  width: 50%;
+  display: flex;
+}
+
+.bcoSeg {
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  width: 50%;
+  display: flex;
+}
+
+.container {
+  display: flex;
+}
+
+.bloco3 {
+  background-color: rgb(238, 230, 220);
+  color: black;
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.bloco4 {
+  background-color: rgb(244, 243, 243);
+  color: black;
+  width: 55%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 5%;
+}
+#btnBlocoQuatro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#btnAssUm {
+  border-radius: 100px;
+  width: 100%;
+}
+
+#btnAssBlue {
+  background-color: blue;
+  color: white;
+}
+
+#btnAssBla {
+  background-color: white;
+  color: blue;
+  border-color: blue;
+}
+
+.bloco5 {
+  background-color: white;
+  color: black;
+  width: 55%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 5%;
+}
+
+#btnDuoUm {
+  background-color: blue;
+  color: white;
+  border-color: blue;
+}
+
+#btnDuoDois {
+  background-color: white;
+  color: blue;
+  border-color: blue;
+}
+
+#btnDuoTres {
+  border-radius: 100px;
+  width: 100%;
+}
+
+.bloco6 {
+  background-color: white;
+  color: black;
+  width: 55%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 5%;
+}
+
+#btnUniUm {
+  background-color: blue;
+  color: white;
+}
+
+#btnUniDois {
+  background-color: white;
+  color: blue;
+  border-color: blue;
+}
+
+#btnUniTres {
+  border-radius: 100px;
+  width: 100%;
+}
+
+.amostra{
+  background-color: white;
+  color: black;
+  width: 55%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 5%;
+  text-align: center;
+}
+
+
+
+.bloco7 {
+  background-color: rgb(8, 0, 0);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+}
+
+.primeiro {
+  width: 20%;
+  height: 50%;
+}
+
+.segundo {
+  width: 20%;
+  height: 50%;
+}
+
+.terceiro {
+  width: 20%;
+  height: 50%;
+}
+
+.finalLine {
+  list-style: none;
+  flex-direction: row;
+  display: flex;
+}
+
+.sugestao {
+  display: flex;
+  flex-direction: row;
+}
+
+.sugestao2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.finalLine1 {
+  list-style: none;
+}
+
+.finalLine2 {
+  list-style: none;
+}
+
+.finalLine3 {
+  list-style: none;
+}
+
+.finalLine4 {
+  list-style: none;
+}
+
+.finalLine5 {
+  list-style: none;
+}
+
